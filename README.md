@@ -1,3 +1,5 @@
-# Config-Server-Async-Microservices
+# Config Server
 
-Ce repo, va jouer le role d'un store pour enristrer les confs de nos microservices par le Server Config
+Ce repo, représente le store des confs de nos microservices
+
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRaTm0Gs5Zax267aQurth8JakuOHF7xyAnMvMnytCm5P6lQJ678CLT0h6FU_J_cYF-S4&usqp=CAU)
